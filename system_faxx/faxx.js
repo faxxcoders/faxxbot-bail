@@ -145,7 +145,7 @@ module.exports = (sock, m, chatUpdate, store) => {
       case "ocr": {
       try {    
       if (!quoted) return reply(`*[ Reply Image With caption ]* ${prefix+command}`)          
-      if (!quoted) return reply(`Reply to Image With Caption ${prefix + command}`)
+      //if (!quoted) return reply(`Reply to Image With Caption ${prefix + command}`)
        if (/image/.test(mime)) {
          react(react_loading);
          var media = await sock.downloadAndSaveMediaMessage(qmsg)
