@@ -1,0 +1,31 @@
+{
+  "name": "Faxx Bot",
+  "version": "1.0.0",
+  "description": "Whatsapp chatbot powered by @whiskeysockets/baileys",
+  "main": "system_faxx/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node system_faxx/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faxx",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "file-type": "^16.5.4",
+    "moment-timezone": "^0.5.37",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "latest",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.3.4",
+    "form-data": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.13",
+    "node-fetch": "^2.6.0",
+    "node-webpmux": "^3.2.0",
+    "pino": "^7.0.5"
+  }
+}
