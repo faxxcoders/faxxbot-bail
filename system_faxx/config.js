@@ -12,6 +12,7 @@ global.namebot = "Faxx Bot" // Name Bot
 global.packname = "Faxx Bot By"
 global.author = "Faxx"
 global.footer = "Faxx Newbie"
+global.sessionname = "./sessions"
 global.react_loading = "🌩️"
 global.react_done = "⚡"
 
