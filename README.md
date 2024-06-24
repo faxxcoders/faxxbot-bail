@@ -10,7 +10,7 @@
 ---
 
 ## Information
-> Faxx Bot Adalah Bot yang dibuat oleh [Faxx](https://wa.me/6281537668728?text=halo). dengan menggunakan Library WhatsApp Web Js
+> Faxx Bot Adalah Bot yang dibuat oleh [Faxx](https://wa.me/6281537668728?text=halo). dengan menggunakan Library Baileys 
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
