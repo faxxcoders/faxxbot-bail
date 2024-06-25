@@ -73,7 +73,7 @@ module.exports = (sock, m, chatUpdate, store) => {
                   body: options.body ? options.body : "Library Baileys",
                   thumbnailUrl: options.thumbnailUrl ? options.thumbnailUrl : "https://telegra.ph/file/1df8653a37cf52ceaebe0.jpg",
                   mediaType: 2,
-                  sourceUrl: options.sourceUrl ? options.sourceUrl : "https://github.com/faxxcoders"
+                  sourceUrl: options.sourceUrl ? options.sourceUrl : "https://github.com/faxxcoders",
                   renderLargerThumbnail: options.renderLargerThumbnail ? options.renderLargerThumbnail : false
                      }
                   }
